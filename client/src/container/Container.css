@@ -1,0 +1,22 @@
+.main-tap {
+    border: none;
+}
+
+.ant-card-head {
+    border-radius: 10px;
+    background: #b9d1f6;
+}
+
+.ant-card-head-title {
+    font-weight: bold;
+}
+
+.ant-tabs-tab-btn {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.ant-card-body {
+    overflow: auto;
+    height: calc(100vh - 177px);
+}

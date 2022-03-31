@@ -1,0 +1,82 @@
+{
+    "CSK": {
+        "id": 1,
+        "teamName": "CSK",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "DC": {
+        "id": 2,
+        "teamName": "DC",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "GT": {
+        "id": 3,
+        "teamName": "GT",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "KKR": {
+        "id": 4,
+        "teamName": "KKR",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "LSG": {
+        "id": 5,
+        "teamName": "LSG",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "MI": {
+        "id": 6,
+        "teamName": "MI",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "PBKS": {
+        "id": 7,
+        "teamName": "PBKS",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "RR": {
+        "id": 8,
+        "teamName": "RR",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "RCB": {
+        "id": 9,
+        "teamName": "RCB",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    },
+    "SRH": {
+        "id": 10,
+        "teamName": "SRH",
+        "matchPlayed": 0,
+        "matchWoned": 0,
+        "NRR": 0,
+        "Pts": 0
+    }
+}

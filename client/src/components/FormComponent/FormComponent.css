@@ -1,0 +1,13 @@
+.ant-modal-content {
+    border-radius: 18px !important;
+}
+
+.ant-form-item {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start;
+}
+
+.ant-form-item-control {
+    width: 100% !important;
+}
